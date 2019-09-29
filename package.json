@@ -23,7 +23,7 @@
   "dependencies": {
     "getenv": "0.7.0",
     "stethoskop": "1.0.0",
-    "uuidv4": "1.0.0"
+    "uuidv4": "5.0.1"
   },
   "devDependencies": {
     "assertthat": "1.0.0",
