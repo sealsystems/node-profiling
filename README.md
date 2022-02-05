@@ -1,7 +1,5 @@
 # @sealsystems/profiling
 
-[![CircleCI](https://circleci.com/gh/sealsystems/node-profiling.svg?style=svg)](https://circleci.com/gh/sealsystems/node-profiling)
-[![AppVeyor](https://ci.appveyor.com/api/projects/status/ekl6ge2ty0edw6qa?svg=true)](https://ci.appveyor.com/project/Plossys/node-profiling)
 
 @sealsystems/profiling captures profiling data.
 
